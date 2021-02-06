@@ -13,3 +13,16 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Code editors
+.vscode/
+.idea/
+
+# Assets directory
+/assets/
+
+# Configuration file
+/config.yaml
+
+# Keep example configuration file
+!/example.yaml

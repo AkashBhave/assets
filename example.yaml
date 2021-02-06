@@ -1,0 +1,8 @@
+assets:
+  - name: "report"
+    asset: "report.pdf"
+    authorized:
+      - name: "jesse"
+        key: "bKTsNyLs"
+      - name: "小明"
+        key: "h3cH7GLY"
