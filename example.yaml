@@ -1,7 +1,7 @@
 assets:
   - name: "report"
     asset: "report.pdf"
-    authorized:
+    users:
       - name: "jesse"
         key: "bKTsNyLs"
       - name: "小明"
